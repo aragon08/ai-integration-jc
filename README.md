@@ -1,1 +1,1 @@
-# ai-integration-jc
+# ai_integration-jc
