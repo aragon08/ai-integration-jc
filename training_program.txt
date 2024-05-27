@@ -1,0 +1,117 @@
+### Programa de Entrenamiento de Fuerza para Juan Carlos Aragon
+
+**Perfil:**
+- **Nombre:** Juan Carlos Aragon
+- **Edad:** 35 años
+- **Peso:** 83kg
+- **Altura:** 175cm
+- **Género:** Masculino
+- **Ocupación:** Ingeniero QA
+- **Actividad:** Crossfit (4 días por semana), Ciclismo de montaña (1-2 días por semana)
+- **Prioridades:** Movilidad de cuerpo superior, ejercicios enfocados a glúteo y femoral, ejercicios de brazo individual, variaciones ASLR (Active Straight Leg Raise)
+
+**Resultados de sus pruebas:**
+- Scratch Test: FAIL
+- Air Squat: PASS
+- Toe Touch Test: FAIL
+- Lunge Test: PASS
+- Straight Leg Raise Test: FAIL
+- Front Plank/Front Leaning Rest: PASS
+- Front Plank Duration: 2:00
+- Reverse Plank: FAIL
+- Reverse Plank Duration: 0:45
+- Side Plank: FAIL
+- Side Plank LEFT Duration: 0:30s
+
+### Objetivos del Programa:
+- Mejora de la movilidad del cuerpo superior.
+- Fortalecimiento de glúteos y femorales.
+- Ejercicios de brazo individual para equilibrio y fuerza.
+- Mejorar en variaciones de ASLR y prueba de elevación de pierna recta.
+
+### Plan Semanal:
+**Días de Entrenamiento:** 5 días por semana
+
+---
+
+**Día 1: Movilidad y Fuerza de la Parte Superior**
+- **Calentamiento:** 
+  - Rotaciones de hombros y muñecas (3x15)
+  - Estiramientos dinámicos de espalda y brazos (5 minutos)
+- **Ejercicios Principales:**
+  - Pull-ups asistidos (3x10)
+  - Push-ups (4x10)
+  - Dumbbell Rows (3x12 por brazo)
+  - Planchas frontales (4x30 segundos con 10 segundos de descanso)
+- **Movilidad:**
+  - Caminata del oso (3x20 metros)
+  - Estiramiento de puerta para pectorales (3x30 segundos)
+  - Stretching Y y T en el suelo (3x12)
+
+---
+
+**Día 2: Fuerza de Glúteos y Femorales**
+- **Calentamiento:**
+  - Círculos de cadera (3x10 en cada dirección)
+  - Desplantes estáticos (3x10 por pierna)
+- **Ejercicios Principales:**
+  - Romanian Deadlifts (4x8)
+  - Hip Thrusts (4x12)
+  - Bulgarian Split Squats (3x10 por pierna)
+  - Glute Bridge (3x15)
+- **Movilidad:**
+  - Estiramiento de glúteos (3x30 segundos por lado)
+  - Estiramientos de isquiotibiales en PNF (3x15 segundos activación, 15 segundos relajación)
+
+---
+
+**Día 3: Brazo Individual y Movilidad**
+- **Calentamiento:**
+  - Rotaciones de muñeca y codo con bandas de resistencia (3x15)
+  - Despertar de hombros con banda elástica (3x12)
+- **Ejercicios Principales:**
+  - Bicep Curls (4x12 por brazo)
+  - Tricep Kickbacks (4x12 por brazo)
+  - Single-arm Dumbbell Press (3x10 por brazo)
+  - Reverse Flyes (3x12)
+- **Movilidad:**
+  - Estiramientos de tríceps con banda (3x30 segundos por lado)
+  - Estiramientos de bíceps con banda (3x30 segundos por lado)
+
+---
+
+**Día 4: Baja Intensidad y Movilidad**
+- **Calentamiento:** 
+  - Movilidad de cadera y espalda con foam roller (5 minutos)
+  - Movilidad dinámica del cuerpo superior (5 minutos)
+- **Ejercicios Principales/Técnicos:**
+  - Air Squats con técnica perfeccionada (3x15)
+  - Desplantes hacia delante y atrás (3x10 por pierna)
+  - Cargas graduales y reducciones controladas para ASLR (3x8 por pierna)
+- **Movilidad:**
+  - Stretching de isquiotibiales con banda elástica (3x30 segundos por pierna)
+  - Progession técnica de ASLR con banda (3x10)
+  - Estiramiento global de cadena posterior (3x30 segundos)
+
+---
+
+**Día 5: Combinado de Fuerza y Resistencia Core**
+- **Calentamiento:**
+  - Movilidad general y estiramientos dinámicos (5 minutos)
+- **Ejercicios Principales:**
+  - Deadlifts (4x6)
+  - Kettlebell Swings (4x15)
+  - Farmer's Walk (3x30 metros)
+  - Planchas laterales (3x20 segundos por lado)
+- **Movilidad:**
+  - Estiramiento de cuádriceps (3x30 segundos por pierna)
+  - Reverse Plank con progresión gradual (3x máx. tiempo posible)
+  - Estiramiento de cadena cruzada (3x20 segundos por lado)
+
+---
+
+### Consideraciones Adicionales:
+- Cada sesión debe comenzar y terminar con un calentamiento y enfriamiento adecuado para evitar lesiones.
+- Enfoque en la técnica adecuada durante todos los ejercicios para maximizar los beneficios y minimizar el riesgo de lesiones.
+- Incorporar ejercicios de movilidad en capacidades donde ha fallado en las pruebas para mejorar el rango de movimiento y la funcionalidad.
+- Evaluar progresos cada 4-6 semanas y ajustar el programa según necesidades y mejoras observadas.
