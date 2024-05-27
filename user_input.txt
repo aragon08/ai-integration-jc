@@ -1,0 +1,16 @@
+Escribe un programa de entrenamiento de fuerza con la informacion del avatar proporcionada con el system_context.txt y considerando lo  siguientes
+Entrenamiento: 5 dias por semana
+Prioridades de entrenamiento: Movilidad de cuerpo superior, ejercicios enfocados a gluteo y femoral, ejercicios de brazo individual y variaciones ASLR
+Resultados de sus pruebas:
+    His assesment is
+    Scratch Test FAIL
+    Air Squat PASS
+    Toe Touch Test FAIL
+    Lunge Test PASS
+    Straight Leg Raise Test FAIL
+    Front Plank/Front Leaning Rest PASS
+    Front Plank Duration: 2:00
+    Reverse Plank FAIL
+    Reverse Plank Duration: 0:45
+    Side Plank FAIL
+    Side Plank LEFT Duration: 0:30 S

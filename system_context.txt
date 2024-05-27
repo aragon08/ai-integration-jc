@@ -1,0 +1,8 @@
+Teniendo como contexto los siguientes puntos del avatar como informacion principal:
+Nombre: Juan Carlos Aragon
+Edad: 35 años
+Peso: 83kg
+Altura: 175cm
+Genero: Masculino
+Ocupacion: Ingeniero QA
+Actividad: Crossfit 4 dias por semana, Ciclismo de montaña 1-2 dias por semana

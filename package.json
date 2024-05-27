@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "wtd": "node openai-test.js"
+    "wtd": "node openai_integration.js"
   },
   "keywords": [],
   "author": "",
